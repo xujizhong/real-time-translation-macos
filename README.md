@@ -61,7 +61,6 @@ Adjust the caption bubble style and layout in code:
 
 - Apple ScreenCaptureKit, Speech, and Translation frameworks.
 
----
+## License
 
-This repository currently has no explicit license file. If you need a specific license, please add one.
-
+Licensed under the MIT License. See `LICENSE` for details.

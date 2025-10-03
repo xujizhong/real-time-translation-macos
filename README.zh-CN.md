@@ -61,7 +61,6 @@
 
 - Apple 的 ScreenCaptureKit、Speech 与 Translation 框架。
 
----
+## 许可协议
 
-本仓库目前未包含许可证文件。如需特定授权协议，可自行添加。
-
+本项目使用 MIT 协议开源，详见 `LICENSE` 文件。
